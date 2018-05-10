@@ -1,4 +1,4 @@
-This is the code of paper **Parameter Transfer Extreme Learning Machine based on Projective Model**
+This is the code of paper [**Parameter Transfer Extreme Learning Machine based on Projective Model**](https://file.byjiang.com/PTELM.pdf)
 
 To reproduce the experiment in paper, you should first uncompress *rcv1rcv2aminigoutte.7z* file under data folder and then run
 ```
